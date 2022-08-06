@@ -1,2 +1,2 @@
 # demo-repo
-how to use git 
+how to use git & github
